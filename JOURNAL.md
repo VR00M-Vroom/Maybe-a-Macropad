@@ -25,3 +25,7 @@ Time ~2.7 hrs
 
 <img width="744" height="624" alt="Screenshot 2025-08-04 203536" src="https://github.com/user-attachments/assets/c8a5d69c-291f-4e39-b121-c13398d15c94" />
 <img width="1081" height="620" alt="Screenshot 2025-08-14 230142" src="https://github.com/user-attachments/assets/3de04c9c-aaa4-4c97-8aaa-64ec25ae8f95" />
+
+# August 16th
+I thought I was finished with my PCB and design but really i was not. This was to blame the LED that I had added to add some flair to my project which was bad. It ended up being the cuase of my downfall or so I thought. I had to test it on a breadboard with an arduino to make sure that I wasn't tweakingou or anything but it was fine so I'll probably finish tommorow if i get the time to. Now I just have to fix the routing...
+
