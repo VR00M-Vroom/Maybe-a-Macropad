@@ -38,4 +38,11 @@ Time Spent 6hrs
 
 # August 17th
 The time ticks...
-Today I just found out that the leds may blink erratically if i just ship it as is so I need to find an altrenative for it.
+Today I just found out that the leds may blink erratically if i just ship it as is so I need to find an alternative for it. _
+I changed from a led matrix to a encoder. This also took a while to figure out but I think Im ready to ship.
+
+<img width="482" height="206" alt="Screenshot 2025-08-17 093031" src="https://github.com/user-attachments/assets/06a696c9-f440-449f-ba9c-d62af5030de0" />
+<img width="828" height="581" alt="Screenshot 2025-08-17 093041" src="https://github.com/user-attachments/assets/53acbd8b-3a6a-4261-b82b-aa8cc265909e" />
+<img width="593" height="790" alt="Screenshot 2025-08-17 132323" src="https://github.com/user-attachments/assets/d72ea35b-015c-4922-be2c-760e81dd501c" />
+<img width="889" height="594" alt="Screenshot 2025-08-17 133157" src="https://github.com/user-attachments/assets/e7136e86-fc9f-4e42-aa13-ce5b4cacd839" />
+<img width="445" height="588" alt="Screenshot 2025-08-16 234413" src="https://github.com/user-attachments/assets/619c8f2a-10a7-45ab-87dd-3a7615526443" />
