@@ -22,10 +22,17 @@ Anyways the projects file for the led was still horribly wrogn and took me an ho
 Time ~2.7 hrs
 
 # August 15th
-
+The train is back on track, and I have Finished routing the PCB. There were no major Issues with the routing and PCB execpt for the 12 vias i needed for 3 traces..
+Anyways I popped it into the slack to check if there were any errors and I will now go to sleep. Tommorow is going to be for final touches.
 <img width="744" height="624" alt="Screenshot 2025-08-04 203536" src="https://github.com/user-attachments/assets/c8a5d69c-291f-4e39-b121-c13398d15c94" />
 <img width="1081" height="620" alt="Screenshot 2025-08-14 230142" src="https://github.com/user-attachments/assets/3de04c9c-aaa4-4c97-8aaa-64ec25ae8f95" />
 
 # August 16th
 I thought I was finished with my PCB and design but really i was not. This was to blame the LED that I had added to add some flair to my project which was bad. It ended up being the cuase of my downfall or so I thought. I had to test it on a breadboard with an arduino to make sure that I wasn't tweakingou or anything but it was fine so I'll probably finish tommorow if i get the time to. Now I just have to fix the routing...
+Its 11:45 and I have fixed the traces and I am dead tired. The Pcb was soo hard to route and I don't want to do that again.
+
+<img width="635" height="779" alt="Screenshot 2025-08-16 225241" src="https://github.com/user-attachments/assets/7aeaf7c8-3238-4ffa-bfcc-d8e7fd833376" />
+<img width="445" height="588" alt="Screenshot 2025-08-16 234413" src="https://github.com/user-attachments/assets/98828cfd-906d-4560-a96d-729e016b3341" />
+<img width="655" height="791" alt="Screenshot 2025-08-16 114311" src="https://github.com/user-attachments/assets/03962b64-cac1-4c00-9d2f-e6ccd6c1abaf" />
+Time Spent 6hrs
 
