@@ -1,5 +1,0 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-OL1,SSD1306-0.91-OLED-4pin-128x32,1,SSD1306_0.91_OLED,
-"SW1, SW2, SW3, SW4, SW5, SW6, SW7",SW_Cherry_MX_1.00u_PCB,7,SW_Push,
-SW9,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
-U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
