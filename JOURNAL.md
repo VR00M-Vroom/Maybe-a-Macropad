@@ -32,7 +32,10 @@ I thought I was finished with my PCB and design but really i was not. This was t
 Its 11:45 and I have fixed the traces and I am dead tired. The Pcb was soo hard to route and I don't want to do that again.
 
 <img width="635" height="779" alt="Screenshot 2025-08-16 225241" src="https://github.com/user-attachments/assets/7aeaf7c8-3238-4ffa-bfcc-d8e7fd833376" />
-<img width="445" height="588" alt="Screenshot 2025-08-16 234413" src="https://github.com/user-attachments/assets/98828cfd-906d-4560-a96d-729e016b3341" />
-<img width="655" height="791" alt="Screenshot 2025-08-16 114311" src="https://github.com/user-attachments/assets/03962b64-cac1-4c00-9d2f-e6ccd6c1abaf" />
+<img width="655" height="791" alt="Screenshot 2025-08-16 114311" src="https://github.com/user-attachments/assets/03962b64-cac1-4c00-9d2f-e6ccd6c1abaf" /> OLD
+<img width="445" height="588" alt="Screenshot 2025-08-16 234413" src="https://github.com/user-attachments/assets/98828cfd-906d-4560-a96d-729e016b3341" /> NEW
 Time Spent 6hrs
 
+# August 17th
+The time ticks...
+Today I just found out that the leds may blink erratically if i just ship it as is so I need to find an altrenative for it.
