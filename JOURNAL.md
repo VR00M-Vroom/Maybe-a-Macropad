@@ -46,3 +46,5 @@ I changed from a led matrix to a encoder. This also took a while to figure out b
 <img width="593" height="790" alt="Screenshot 2025-08-17 132323" src="https://github.com/user-attachments/assets/d72ea35b-015c-4922-be2c-760e81dd501c" />
 <img width="889" height="594" alt="Screenshot 2025-08-17 133157" src="https://github.com/user-attachments/assets/e7136e86-fc9f-4e42-aa13-ce5b4cacd839" />
 <img width="445" height="588" alt="Screenshot 2025-08-16 234413" src="https://github.com/user-attachments/assets/619c8f2a-10a7-45ab-87dd-3a7615526443" />
+time spent 4hrs
+
