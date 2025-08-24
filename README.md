@@ -11,4 +11,5 @@ Its a exposed macropad
 <img width="801" height="920" alt="Screenshot 2025-08-23 165533" src="https://github.com/user-attachments/assets/4e670603-a8f9-4ecf-a421-28791a4f3e24" />
 <img width="789" height="928" alt="Screenshot 2025-08-23 165540" src="https://github.com/user-attachments/assets/adcd14d0-5153-41eb-842b-77e9a438010c" />
 <img width="780" height="750" alt="Screenshot 2025-08-23 165600" src="https://github.com/user-attachments/assets/6c72f10f-d615-4558-ab95-0be6a722dc21" />
-<img width="720" height="454" alt="Screenshot 2025-08-23 145411" src="https://github.com/user-attachments/assets/59a07b40-807d-4199-8320-b673064f7df8" />
+<img width="842" height="237" alt="Screenshot 2025-08-24 093010" src="https://github.com/user-attachments/assets/6da0e20a-14fb-4860-9133-5b079478ba84" />
+<img width="819" height="647" alt="Screenshot 2025-08-24 092941" src="https://github.com/user-attachments/assets/e5dc974d-9414-4216-98b7-215cbe7c3d4c" />
